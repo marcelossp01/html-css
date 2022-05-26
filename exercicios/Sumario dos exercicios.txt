@@ -1,0 +1,3 @@
+ex002 - Guanabara;
+ex003 - Dio-primeiro exercicio script;
+ex004 - Dio-variaveis;
